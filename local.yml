@@ -11,3 +11,4 @@
       - openjdk-8-jdk
       - gparted
       - nmap
+      - make
