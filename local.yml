@@ -8,3 +8,6 @@
       - tmux
       - vim
       - tree
+      - openjdk-8-jdk
+      - gparted
+      - nmap
